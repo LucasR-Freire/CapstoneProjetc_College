@@ -1,1 +1,1 @@
-# CapstoneProjetc_College
+# College CapstoneProjetc
